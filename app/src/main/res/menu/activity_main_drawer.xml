@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:id="@+id/nav_tinNoiBat"
+        android:icon="@drawable/nav_noibat"
+        android:title="Tin Nổi Bật" />
+
+
+    <item android:id="@+id/nav_phapLuat"
+        android:icon="@drawable/nav_phapluat"
+        android:title="Pháp Luật" />
+
+
+    <item android:id="@+id/nav_theGioi"
+        android:icon="@drawable/nav_thegioi"
+        android:title="Thế Giới" />
+
+    <item android:id="@+id/nav_theThao"
+        android:icon="@drawable/nav_thethao"
+        android:title="Thể Thao" />
+
+    <item android:id="@+id/nav_xaHoi"
+        android:icon="@drawable/nav_xahoi"
+        android:title="Xã Hội" />
+
+    <item android:id="@+id/nav_vanHoa"
+        android:icon="@drawable/nav_vanhoa"
+        android:title="Văn Hóa" />
+
+    <item android:id="@+id/nav_kinhTe"
+        android:icon="@drawable/nav_kinhte"
+        android:title="Kinh Tế" />
+
+    <item android:id="@+id/nav_congNghe"
+        android:icon="@drawable/nav_congnghe"
+        android:title="Công Nghệ" />
+
+    <item android:id="@+id/nav_giaiTri"
+        android:icon="@drawable/nav_giaitri"
+        android:title="Giải Trí" />
+
+    <item android:id="@+id/nav_giaoDuc"
+        android:icon="@drawable/nav_giaoduc"
+        android:title="Giáo Dục" />
+
+    <item android:id="@+id/nav_sucKhoe"
+        android:icon="@drawable/nav_suckhoe"
+        android:title="Sức Khỏe" />
+
+    <item android:id="@+id/nav_nhaDat"
+        android:icon="@drawable/nav_nhadat"
+        android:title="Nhà Đất" />
+
+    <item android:id="@+id/nav_xeCo"
+        android:icon="@drawable/nav_xeco"
+        android:title="Xe Cộ" />
+
+</menu>

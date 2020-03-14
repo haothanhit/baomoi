@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Báo Mới Nhất</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--ID Ads-->
+    <string name="APP_ID">ca-app-pub-4439595704793521~2321871501</string>
+    <string name="ad_banner">ca-app-pub-4439595704793521/7841969104</string>
+    <string name="ad_full">ca-app-pub-4439595704793521/3443381488</string>
+
+    <!--Id test Ads-->
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="full_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="dieu_khoan">BÁO MỚI - Đọc Báo, Tin tức trân trọng cảm ơn các bạn đã sử dụng ứng dụng “ĐỌC BÁO MỠI NGÀY NAY” của chúng tôi. Mọi nội dung trong “BÁO MỚI” được chia sẽ công khai lấy từ các trang web tin tức lớn của Việt Nam.\n- Tin tức được cập nhật liên tục từng phút trong “BÁO MỚI”.\n- Chúng tôi không sở hữu bất kỳ nội dung nào trong ứng dụng. Ứng dụng chỉ hiển thị nội dung của các bài báo.\n- Khi các bạn click vào xem các bài báo thì ứng dụng sẽ chuyển đến website lưu trữ nội dung bài viết đó.\n- Chúng tôi không sở hữu quyền của bất kỳ nội dung nào.\n- Nhằm duy trì và phát triển ứng dụng ngày một phù hợp và phục vụ người dùng tốt hơn chúng tôi có sử dụng quảng cáo của Google để tạo doanh thu cho ứng dụng.\n- Chúng tôi không khuyến khích các bạn click vào quảng cáo. Nếu các bạn thấy quảng cáo có ích cho mình thì hãy click để xem.\n- Chân thành cảm ơn các bạn đã sử dụng ứng dụng “BÁO MỚI”.\nChúc các bạn có những thông tin giải trí và kiến thức hữu ích cho mình.</string>
+    <string name="title_nav_main">Danh Mục</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nav_header_title">Danh Mục</string>
+    <string name="khong_du_lieu">Không có dữ liệu\nClick để tải lại</string>
+
+</resources>

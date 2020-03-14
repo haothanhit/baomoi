@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9f1c24</color>
+    <color name="colorPrimaryDark">#740000</color>
+    <color name="colorAccent">#D8D51B</color>
+    <color name="text_color_white">#fff</color>
+    <color name="text_color">#000</color>
+    <color name="colorBackground">#f2f2f2</color>
+    <color name="startusColor">#9f1c24</color>
+    <color name="tabTitleColor">#fff</color>
+    <color name="cardBackGround">#ffffff</color>
+</resources>

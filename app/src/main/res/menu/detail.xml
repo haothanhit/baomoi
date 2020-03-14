@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/action_danh_dau"
+        android:icon="@drawable/bookmark_before"
+        android:title="Đánh dấu tin"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_text_size"
+        android:icon="@drawable/increase_font"
+        android:title="Giảm kích cỡ chữ"
+        app:showAsAction="always" />
+
+    <!--    <item
+            android:id="@+id/action_night_mode_detail"
+            android:title="@string/action_settings"
+            app:showAsAction="always"
+            android:icon="@drawable/moon_black" />-->
+
+    <!--    <item
+            android:id="@+id/action_share_detail"
+            android:title="Chia sẻ bài viết"
+            app:showAsAction="always"
+            android:icon="@android:drawable/ic_menu_share" />-->
+</menu>
